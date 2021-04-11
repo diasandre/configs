@@ -1,0 +1,16 @@
+## VSCODE EXTENSIONS
+
+- [auto-close-tag](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-close-tag)
+- [autoimport](https://marketplace.visualstudio.com/items?itemName=steoates.autoimport)
+- [auto-rename-tag](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-rename-tag)
+- [bracket-pair-colorizer](https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer)
+- [vscode-color](https://marketplace.visualstudio.com/items?itemName=anseki.vscode-color)
+- [theme-dracula](https://marketplace.visualstudio.com/items?itemName=dracula-theme.theme-dracula)
+- [prettier-vscode](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)
+- [rainbow-brackets](https://marketplace.visualstudio.com/items?itemName=2gua.rainbow-brackets)
+- [vscode-styled-components](https://marketplace.visualstudio.com/items?itemName=jpoissonnier.vscode-styled-components)
+- [path-intellisense](https://marketplace.visualstudio.com/items?itemName=christian-kohler.path-intellisense)
+- [lintlens](https://marketplace.visualstudio.com/items?itemName=ghmcadams.lintlens)
+- [import-cost](https://marketplace.visualstudio.com/items?itemName=wix.vscode-import-cost)
+- [gitlens](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens)
+- [vscode-eslint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint)
